@@ -4,5 +4,6 @@ matplotlib
 seaborn
 flask
 sklearn
+ipykernel
 
 -e .
