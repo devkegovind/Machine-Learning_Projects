@@ -1,1 +1,4 @@
 venv
+build
+House_Price.egg-info
+dist
